@@ -1,0 +1,28 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.container
+{
+    position: relative;
+    border: 1px solid black;
+}
+.container img{
+    padding: relative;
+    width: 853px;
+    height: 500px;
+    border: 1px solid black;
+    background-position: center;
+    margin-top: 30px;
+}
+.text
+{   width: 500px;
+    height: 400px;
+    margin-left:345px;
+    margin-top: 230px;
+    position: absolute;
+    font-size: 35px;
+    font-weight: bold;
+}
